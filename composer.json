@@ -1,13 +1,16 @@
 {
-  "name": "goodsContext/codegen",
-  "description": "goodsContext",
-  "license": "MIT",
-  "type": "project",
-  "require": {
-  },
-  "autoload": {
-    "psr-4": {
-      "Goods\\": "goods/"
-    }
-  }
+    "name": "goods/codegen",
+    "description": "codegen",
+    "authors": [
+        {
+            "name": "lihongwei",
+            "email": "lihongwei3@dankegongyu.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Goods\\Rpc\\": "src/goods/"
+        }
+    },
+    "require": {}
 }
