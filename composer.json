@@ -10,7 +10,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Goods\\Rpc\\": "src/goods/"
+            "Goods\\Rpc\\": "src/Goods/Rpc"
         }
     },
     "require": {}
