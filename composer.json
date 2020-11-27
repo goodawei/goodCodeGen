@@ -1,6 +1,7 @@
 {
     "name": "goods/codegen",
     "description": "codegen",
+    "type": "library",
     "authors": [
         {
             "name": "lihongwei",
