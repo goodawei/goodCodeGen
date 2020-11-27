@@ -1,0 +1,13 @@
+{
+  "name": "goodsContext/codegen",
+  "description": "goodsContext",
+  "license": "MIT",
+  "type": "project",
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {
+      "Goods\\": "goods/"
+    }
+  }
+}
