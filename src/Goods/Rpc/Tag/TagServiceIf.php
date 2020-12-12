@@ -29,6 +29,11 @@ interface TagServiceIf {
    * @return string
    */
   public function save($tag);
+  /**
+   * @param string $tag
+   * @return string
+   */
+  public function get($tag);
 }
 
 
